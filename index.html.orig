@@ -5,6 +5,7 @@
 <a>Добавил заголовок.Создаю конфликт</a>
 =======
 <a>Добавил заголовок</a>
+<a>Пробуем отправить запрос на слияние</a>
 >>>>>>> new-branch
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
